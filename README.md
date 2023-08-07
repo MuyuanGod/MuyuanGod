@@ -1,4 +1,4 @@
-###✨A Minecraft Player | An UI Designer✨
+✨A Minecraft Player | An UI Designer✨
 
 <!--
 **MuyuanGod/MuyuanGod** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
